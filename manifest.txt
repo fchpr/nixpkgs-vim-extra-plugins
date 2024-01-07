@@ -3,6 +3,7 @@
 0styx0/abbremand.nvim
 2KAbhishek/co-author.nvim
 2nthony/vitesse.nvim
+3rd/image.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
 aaronhallaert/advanced-git-search.nvim
