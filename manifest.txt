@@ -279,6 +279,7 @@ google/executor.nvim
 goolord/alpha-nvim
 gorbit99/codewindow.nvim
 gpanders/editorconfig.nvim
+gregorias/coerce.nvim
 gsuuon/llm.nvim
 gsuuon/note.nvim
 gsuuon/tshjkl.nvim
@@ -826,6 +827,7 @@ svermeulen/vimpeccable
 svrana/neosolarized.nvim
 sychen52/smart-term-esc.nvim
 t-troebst/perfanno.nvim
+ta-tikoma/php.easy.nvim
 tadmccorkle/markdown.nvim
 tamago324/cmp-zsh
 tamago324/lir.nvim
