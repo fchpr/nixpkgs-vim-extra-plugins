@@ -155,6 +155,7 @@ cshuaimin/ssr.nvim
 cuducos/yaml.nvim
 cvigilv/esqueleto.nvim
 CWood-sdf/pineapple
+CWood-sdf/spaceport.nvim
 danielpieper/telescope-tmuxinator.nvim
 danymat/neogen
 Darazaki/indent-o-matic
@@ -356,6 +357,7 @@ jlesquembre/nterm.nvim
 JMarkin/gentags.lua
 jmbuhr/otter.nvim
 johann2357/nvim-smartbufs
+johmsalas/text-case.nvim
 JoosepAlviste/nvim-ts-context-commentstring
 jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/nvim-lsp-ts-utils
