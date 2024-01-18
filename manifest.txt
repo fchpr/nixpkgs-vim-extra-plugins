@@ -297,6 +297,7 @@ hiphish/nvim-ts-rainbow2
 HiPhish/rainbow-delimiters.nvim
 hkupty/iron.nvim
 hkupty/nvimux
+HoNamDuong/hybrid.nvim
 houtsnip/vim-emacscommandline
 hrsh7th/cmp-buffer
 hrsh7th/cmp-calc
@@ -654,6 +655,7 @@ phaazon/mind.nvim
 phha/zenburn.nvim
 PHSix/nvim-hybrid
 pianocomposer321/consolation.nvim
+pianocomposer321/officer.nvim
 pianocomposer321/yabs.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
@@ -847,6 +849,7 @@ Th3Whit3Wolf/space-nvim
 thaerkh/vim-workspace
 TheBlob42/drex.nvim
 theHamsta/nvim-dap-virtual-text
+theKnightsOfRohan/csvlens.nvim
 themaxmarchuk/tailwindcss-colors.nvim
 themercorp/themer.lua
 theniceboy/nvim-deus
