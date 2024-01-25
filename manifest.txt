@@ -434,6 +434,7 @@ linrongbin16/fzfx.nvim
 linrongbin16/gentags.nvim
 linrongbin16/gitlinker.nvim::gitlinker-linrongbin16
 linrongbin16/lsp-progress.nvim
+LintaoAmons/cd-project.nvim
 LintaoAmons/easy-commands.nvim
 LintaoAmons/scratch.nvim
 linty-org/key-menu.nvim
@@ -644,6 +645,7 @@ onsails/diaglist.nvim
 onsails/lspkind.nvim
 OscarCreator/rsync.nvim
 ostralyan/scribe.nvim
+otavioschwanck/arrow.nvim
 otavioschwanck/telescope-alternate.nvim
 otavioschwanck/tmux-awesome-manager.nvim
 oxfist/night-owl.nvim
