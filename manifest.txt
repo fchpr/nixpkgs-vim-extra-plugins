@@ -392,6 +392,7 @@ kevinhwang91/nvim-hlslens
 kevinhwang91/nvim-ufo
 kevinhwang91/promise-async
 kevinhwang91/rnvimr
+kiddos/gemini.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/s3edit.nvim
 kiyoon/jupynium.nvim
