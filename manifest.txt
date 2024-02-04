@@ -807,6 +807,8 @@ sonjiku/yawnc.nvim
 sontungexpt/stcursorword
 sontungexpt/sttusline
 sontungexpt/url-open
+sontungexpt/witch
+soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
