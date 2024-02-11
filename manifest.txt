@@ -314,6 +314,7 @@ hrsh7th/cmp-path
 hrsh7th/cmp-vsnip
 hrsh7th/nvim-cmp
 hylang/vim-hy
+iabdelkareem/csharp.nvim
 iamcco/coc-tailwindcss
 iamcco/markdown-preview.nvim
 ibhagwan/fzf-lua
@@ -436,6 +437,7 @@ linrongbin16/fzfx.nvim
 linrongbin16/gentags.nvim
 linrongbin16/gitlinker.nvim::gitlinker-linrongbin16
 linrongbin16/lsp-progress.nvim
+LintaoAmons/bookmarks.nvim
 LintaoAmons/cd-project.nvim
 LintaoAmons/easy-commands.nvim
 LintaoAmons/scratch.nvim
@@ -475,6 +477,7 @@ malbertzard/inline-fold.nvim
 mangelozzi/rgflow.nvim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
+marilari88/twoslash-queries.nvim
 marko-cerovac/material.nvim
 martineausimon/nvim-lilypond-suite
 matbme/JABS.nvim
@@ -547,6 +550,7 @@ nat-418/boole.nvim
 natecraddock/workspaces.nvim
 navarasu/onedark.nvim
 neanias/everforest-nvim
+Nedra1998/nvim-mdlink
 nekonako/xresources-nvim
 neovim/nvim-lspconfig
 Nexmean/caskey.nvim
@@ -844,6 +848,7 @@ tamago324/cmp-zsh
 tamago324/lir.nvim
 tamago324/nlsp-settings.nvim
 tamton-aquib/staline.nvim
+tanloong/interlaced.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
 tenxsoydev/karen-yank.nvim
