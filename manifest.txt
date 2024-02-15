@@ -61,6 +61,7 @@ anuvyklack/pretty-fold.nvim
 anuvyklack/windows.nvim
 aPeoplesCalendar/apc.nvim
 ariel-frischer/bmessages.nvim
+artemave/workspace-diagnostics.nvim
 aserowy/tmux.nvim
 ashfinal/qfview.nvim
 askfiy/nvim-picgo
@@ -75,6 +76,7 @@ b0o/incline.nvim
 b0o/mapx.nvim
 b0o/SchemaStore.nvim
 b3nj5m1n/kommentary
+backdround/global-note.nvim
 backdround/improved-ft.nvim
 backdround/improved-search.nvim
 backdround/neowords.nvim
@@ -693,6 +695,7 @@ ragnarok22/whereami.nvim
 raimon49/requirements.txt.vim
 ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
+RAprogramm/nekifoch
 ray-x/aurora
 ray-x/cmp-treesitter
 ray-x/go.nvim
