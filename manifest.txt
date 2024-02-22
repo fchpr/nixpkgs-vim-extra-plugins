@@ -2,6 +2,7 @@
 0styx0/abbreinder.nvim
 0styx0/abbremand.nvim
 2KAbhishek/co-author.nvim
+2KAbhishek/tdo.nvim
 2nthony/vitesse.nvim
 3rd/image.nvim
 4e554c4c/darkman.nvim
@@ -16,6 +17,7 @@ AckslD/nvim-FeMaco.lua
 AckslD/nvim-gfold.lua
 AckslD/nvim-neoclip.lua
 AckslD/nvim-revJ.lua
+AckslD/nvim-trevJ.lua
 AckslD/swenv.nvim
 ada0l/obsidian
 adelarsq/image_preview.nvim
@@ -174,6 +176,8 @@ davidsierradz/cmp-conventionalcommits
 dcampos/cmp-snippy
 dcampos/nvim-snippy
 dccsillag/magma-nvim
+deathbeam/autocomplete.nvim
+deathbeam/lspecho.nvim
 debugloop/telescope-undo.nvim
 declancm/cinnamon.nvim
 declancm/windex.nvim
@@ -406,6 +410,7 @@ kmonad/kmonad-vim
 koenverburg/peepsight.nvim
 konapun/vacuumline.nvim
 kosayoda/nvim-lightbulb
+kr40/nvim-macros
 krady21/compiler-explorer.nvim
 kvrohit/mellow.nvim
 kvrohit/rasmus.nvim
