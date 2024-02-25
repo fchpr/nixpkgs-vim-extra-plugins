@@ -701,6 +701,7 @@ raimon49/requirements.txt.vim
 ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
 RAprogramm/nekifoch
+rasulomaroff/telepath.nvim
 ray-x/aurora
 ray-x/cmp-treesitter
 ray-x/go.nvim

@@ -467,8 +467,8 @@
 | [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope) | 2024-02-10 | `neorg-telescope` | 2024-02-25 |
 | [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) | 2023-02-08 | `NeoRoot-lua` | 2024-02-25 |
 | [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) | 2024-02-04 | `neoscroll-nvim` | 2024-02-25 |
-| [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) | 2023-12-13 | `neosolarized-nvim` | 2024-02-25 |
 | [Tsuzat/NeoSolarized.nvim](https://github.com/Tsuzat/NeoSolarized.nvim) | 2023-12-26 | `NeoSolarized-nvim` | 2024-02-25 |
+| [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) | 2023-12-13 | `neosolarized-nvim` | 2024-02-25 |
 | [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) | 2023-06-22 | `NeoTerm-lua` | 2024-02-25 |
 | [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) | 2024-02-16 | `neotest` | 2024-02-25 |
 | [coffebar/neovim-project](https://github.com/coffebar/neovim-project) | 2023-12-12 | `neovim-project` | 2024-02-25 |
