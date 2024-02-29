@@ -185,6 +185,7 @@ dense-analysis/neural
 desdic/agrolens.nvim
 desdic/greyjoy.nvim
 desdic/macrothis.nvim
+desdic/marlin.nvim
 desdic/telescope-rooter.nvim
 Dhanus3133/Leetbuddy.nvim
 dinhhuy258/sfm.nvim
@@ -192,6 +193,7 @@ dkarter/bullets.vim
 dmitmel/cmp-cmdline-history
 dmitmel/cmp-digraphs
 dmitmel/cmp-vim-lsp
+dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
 DNLHC/glance.nvim
 dpayne/CodeGPT.nvim
@@ -280,6 +282,8 @@ ggandor/leap.nvim
 ggandor/lightspeed.nvim
 ghillb/cybu.nvim
 github/copilot.vim
+gitlab:bartekjaszczak/distinct-nvim
+gitlab:sxwpb/halfspace.nvim
 glacambre/firenvim
 gnikdroy/projections.nvim
 google/executor.nvim
@@ -386,6 +390,7 @@ kaiuri/nvim-juliana
 kana/vim-textobj-indent
 karb94/neoscroll.nvim
 Kasama/nvim-custom-diagnostic-highlight
+kawre/leetcode.nvim
 kazhala/close-buffers.nvim
 kdheepak/cmp-latex-symbols
 kdheepak/lazygit.nvim
@@ -547,6 +552,7 @@ MunifTanjim/nui.nvim
 MunifTanjim/prettier.nvim
 mvpopuk/inspired-github.vim
 mxsdev/nvim-dap-vscode-js
+Myzel394/easytables.nvim
 nacro90/numb.nvim
 nanotee/luv-vimdocs
 nanotee/nvim-lsp-basics

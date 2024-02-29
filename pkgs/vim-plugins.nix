@@ -3096,6 +3096,22 @@
     };
   };
   /*
+  Generated from: gitlab:bartekjaszczak/distinct-nvim
+  */
+  distinct-nvim = buildVimPlugin {
+    pname = "distinct-nvim";
+    version = "2024-02-25";
+    src = fetchurl {
+      url = "https://gitlab.com/api/v4/projects/bartekjaszczak%2Fdistinct-nvim/repository/archive.tar.gz?sha=7ed2b06edcd1bc978c7271ec84248696a8eb2415";
+      sha256 = "0s5ddv4rnz1ghdxwa4azpybm0srmc6kavm1rr2xaz2s87dsvg5pr";
+    };
+    meta = with lib; {
+      description = "Neovim theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.";
+      homepage = "https://gitlab.com/bartekjaszczak/distinct-nvim";
+      license = with licenses; [];
+    };
+  };
+  /*
   Generated from: niuiic/divider.nvim
   */
   divider-nvim = buildVimPlugin {
@@ -4629,6 +4645,22 @@
       description = "A GUI library for Neovim plugin developers";
       homepage = "https://github.com/ray-x/guihua.lua";
       license = with licenses; [mit];
+    };
+  };
+  /*
+  Generated from: gitlab:sxwpb/halfspace.nvim
+  */
+  halfspace-nvim = buildVimPlugin {
+    pname = "halfspace-nvim";
+    version = "2024-02-12";
+    src = fetchurl {
+      url = "https://gitlab.com/api/v4/projects/sxwpb%2Fhalfspace.nvim/repository/archive.tar.gz?sha=c11ff376ea667e292780ed104eb3ac2a5b969c62";
+      sha256 = "0xwp7c3xzgc0d9gikpd24i31j8ra5vb4rq80annd2mcajyx5rqkd";
+    };
+    meta = with lib; {
+      description = "A semi-light neovim color scheme for minimal eye melting.";
+      homepage = "https://gitlab.com/sxwpb/halfspace.nvim";
+      license = with licenses; [];
     };
   };
   /*
